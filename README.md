@@ -15,7 +15,7 @@ and clean domain modeling.
 - Automatically archive orders after box delivery
 
 ## Tech stack
-- Java 17
+- Java 21
 - Maven
 - (Spring Boot – later)
 - (Database – later)
